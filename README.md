@@ -1,12 +1,13 @@
-### Hi there, I'm Max Camargo 👋
-#### Im Max Camargo 🖥
+### Hola, Soy Max Camargo 👋
+`Jr Web Developer`: creando algunos features maravillosos para la web.
+#### La Moto Coder 🖥
  ```bash
-  git clone https://github.com/amplication/amplication.git
-  cd amplication
-  npm install
+  Soy una chica codera de Colombia, aprendiendo y trabajado con JS(ReactJS), Html, y Css.
+  En proceso de aprendizaje con Base de datos y backend
   ```
+<!--
 
-
+`npm run max` : aprende con max
 ## Getting Started With Local Development
 
 Amplication is using a monorepo (powered by [Nx Workspaces](https://nx.dev/)) with multiple apps and libraries.
@@ -43,8 +44,6 @@ Elements in beautiful READMEs include, but are not limited to: images, screensho
   <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/amplication/amplication?color=purple"/>
 </p>
 
-- 
-<!--
 **Maxiel11/maxiel11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ###✨ Hi Im code girl learning dataBase and I’m currently working with ReactJS: ✨
