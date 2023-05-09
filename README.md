@@ -1,9 +1,19 @@
-### Hi there 👋
+### 👋 Hi there 👋
+### ✨ Im Max Camargo [![MaxUdefined](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]
+> A girl learning dataBase and I’m currently working with ReactJS:
+<img src="icon.png" align="right" />
 
+# Awesome README [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
+> A curated list of awesome READMEs
+
+Elements in beautiful READMEs include, but are not limited to: images, screenshots, GIFs, text formatting, etc.
+
+## Examples
+- 
 <!--
 **Maxiel11/maxiel11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+###✨ Hi Im code girl learning dataBase and I’m currently working with ReactJS: ✨
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
